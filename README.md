@@ -1,5 +1,3 @@
-
-```markdown
 # ML/AI Capstone Project
 
 ## About
@@ -29,14 +27,3 @@ Following the Emeritus ML/AI curriculum, currently working through:
 
 ---
 *This is a learning project. Professional work can be found in other repositories.*
-```
-
-**To add it to GitHub:**
-
-1. Go to your new repository
-2. Click "Add file" → "Create new file"
-3. Name it: `README.md`
-4. Paste the content above
-5. Click "Commit new file"
-
-That's it! Clean, simple, and professional - perfect for balancing work and learning repos! 🎯
